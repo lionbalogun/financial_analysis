@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.Python
+
+# Virtualenv
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Streamlit config / logs
+*.log
+
+# Data / large files (optional)
+examples/*.xlsx
